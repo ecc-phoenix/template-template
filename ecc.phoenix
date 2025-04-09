@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <title>講師プロフィール - サリー先生</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    body {
+      font-family: "Hiragino Kaku Gothic ProN", sans-serif;
+      background-color: #fffaf5;
+      color: #333;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background-color: #fce4ec;
+      padding: 20px;
+      text-align: center;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 28px;
+      color: #d81b60;
+    }
+    .container {
+      max-width: 800px;
+      margin: 30px auto;
+      padding: 20px;
+    }
+    .profile-image {
+      text-align: center;
+    }
+    .profile-image img {
+      width: 150px;
+      height: 150px;
+      border-radius: 50%;
+      border: 4px solid #f8bbd0;
+    }
+    .section {
+      background-color: #fff0f5;
+      border-left: 6px solid #f48fb1;
+      padding: 15px 20px;
+      margin-bottom: 20px;
+      border-radius: 8px;
+    }
+    .section h2 {
+      margin-top: 0;
+      color: #c2185b;
+    }
+    .footer {
+      text-align: center;
+      padding: 20px;
+      background-color: #fce4ec;
+      font-size: 14px;
+      color: #777;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>講師プロフィール - サリー先生</h1>
+</header>
+
+<div class="container">
+  <div class="profile-image">
+    <img src="sally.jpg" alt="サリー先生の写真">
+    <p><strong>神戸教室 講師</strong></p>
+  </div>
+
+  <div class="section">
+    <h2>高校時代</h2>
+    <p>私立高校にてカナダ人担任のもと、英語漬けの学校生活を送りました。1年間のカナダ留学では、初めは英語が聞き取れずホームシックになりましたが、日本のお菓子をきっかけに友達ができ、楽しい1年に。</p>
+  </div>
+
+  <div class="section">
+    <h2>大学時代</h2>
+    <p>関西外国語大学で英米語を学び、通訳ガイド部として京都で観光案内も経験。塾講師のアルバイトで、教える楽しさを知りました。</p>
+  </div>
+
+  <div class="section">
+    <h2>ECC講師として</h2>
+    <p>23歳でECCジュニア教室を開講。試行錯誤の中、今年で13年目。子どもたちと楽しく英語を学べる教室作りを目指しています。</p>
+  </div>
+
+  <div class="section">
+    <h2>メッセージ</h2>
+    <p>これからも子どもたちの笑顔を大切に、英語の楽しさを伝えていきます。どうぞよろしくお願いいたします！</p>
+  </div>
+</div>
+
+<div class="footer">
+  &copy; 2025 Sally's English Classroom. All rights reserved.
+</div>
+
+</body>
+</html>
